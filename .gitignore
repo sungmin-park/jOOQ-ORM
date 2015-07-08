@@ -1,0 +1,7 @@
+build
+.gradle
+
+.idea
+*.iml
+
+src/test/java/org/jooq/orm/database/
